@@ -51,12 +51,13 @@ const gravity = 0.1;
 
 
 const player = new Player({
-    x: 0,
-    y: 0,
-});
-const player2 = new Player({
-    x: 300,
-    y: 100,
+    position: {
+        x: 100,
+        y: 0,
+    },
+
+    collisionBlocks,
+    
 });
 
 const keys ={
@@ -91,11 +92,8 @@ function animate(){
     platformCollisionBlocks.forEach((block) => {
         block.update();
     });
-    c.restore();
-
 
     player.update();
-    player2.update();
 
     player.velocity.x = 0;
     if(keys.d.pressed){
@@ -104,6 +102,11 @@ function animate(){
     else if(keys.a.pressed){
         player.velocity.x = -1;
     }
+
+    c.restore();
+
+
+    
 }
 
 animate();
@@ -117,7 +120,7 @@ window.addEventListener("keydown", (event) => {
             keys.a.pressed = true;
             break;
         case "w":
-            player.velocity.y = -10;
+            player.velocity.y = -4;
             break;
     }
 });
