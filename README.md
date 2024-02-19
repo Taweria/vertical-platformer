@@ -23,5 +23,9 @@ OR
 1. Go to [this link](https://taweria.github.io/vertical-platformer/)
 2. Enjoy!
 
+## Credits
+
+Warrior sprites by [Luiz Melo](https://luizmelo.itch.io/medieval-king-pack-2)
+Background by [Trixie](https://trixelized.itch.io/starstring-fields)
 
 
