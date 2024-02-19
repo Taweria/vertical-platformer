@@ -21,7 +21,8 @@ Done at BeCode.org as part of our web dev training.
 OR 
 
 1. Go to [this link](https://taweria.github.io/vertical-platformer/)
-2. Enjoy!
+2. Use A, S, W to move the hero
+3. Enjoy!
 
 ## Credits
 
