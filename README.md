@@ -3,7 +3,7 @@
 ## Introduction
 Vertical platformer is a simple game where you have to jump from platform to platform to reach the top. The game is over when you fall off the screen.
 
-Done with these [tutorials](https://www.youtube.com/watch?v=rTVoyWu8r6g). 
+Done with these [tutorial](https://www.youtube.com/watch?v=rTVoyWu8r6g). 
 
 Done at BeCode.org as part of our web dev training.
 
