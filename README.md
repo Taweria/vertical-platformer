@@ -25,7 +25,7 @@ OR
 
 ## Credits
 
-Warrior sprites by [Luiz Melo](https://luizmelo.itch.io/medieval-king-pack-2)
+Warrior sprites by [Luiz Melo](https://luizmelo.itch.io/medieval-king-pack-2),
 Background by [Trixie](https://trixelized.itch.io/starstring-fields)
 
 
