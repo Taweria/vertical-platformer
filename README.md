@@ -1,7 +1,5 @@
 # vertical-platformer
 
-# note-app
-
 ## Introduction
 Vertical platformer is a simple game where you have to jump from platform to platform to reach the top. The game is over when you fall off the screen.
 
